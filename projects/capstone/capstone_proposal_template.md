@@ -1,12 +1,13 @@
 # Machine Learning Engineer Nanodegree
 ## Capstone Proposal
-Joe Udacity  
-December 31st, 2050
+Hao Guo
+November 5th, 2019
 
 ## Proposal
-_(approx. 2-3 pages)_
 
 ### Domain Background
+Without ant given information, the changes of stock price are random. Thus the probability of increasing is approximately 50%, and the probability of decreasing is also approximately 50%. Given the historical data of a specific stock, we could develpo an algorithm to infer its future changing direction. If our accuracy of predicting the 
+
 _(approx. 1-2 paragraphs)_
 
 In this section, provide brief details on the background information of the domain from which the project is proposed. Historical information relevant to the project should be included. It should be clear how or why a problem in the domain can or should be solved. Related academic research should be appropriately cited in this section, including why that research is relevant. Additionally, a discussion of your personal motivation for investigating a particular problem in the domain is encouraged but not required.
